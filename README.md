@@ -6,10 +6,10 @@
     3. Making Buttons!
 
 ## How to Start with HTML
-#MUST Start with 
-    <!DOCTYPE html>
-#THEN,
-    <html> </html>
+MUST Start with 
+    (<!DOCTYPE html>)
+THEN,
+    (<html> </html>)
 
 ## Coding Images
 Make sure to check your image follows these guidelines:
