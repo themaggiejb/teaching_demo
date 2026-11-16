@@ -7,9 +7,11 @@
 
 ## How to Start with HTML
 MUST Start with 
-    (<!DOCTYPE html>)
+    !DOCTYPE html
 THEN,
-    (<html> </html>)
+    html> </html
+(I have removed the <> from beginning and end so
+the pages code won't break)
 
 ## Coding Images
 Make sure to check your image follows these guidelines:
@@ -26,7 +28,6 @@ However, if in a class, the code will look like:
     url(“background_image.png”);
 
 ## Making Buttons
-
 There are multiple ways to approach making a button,
 however the base code is listed below:
 
@@ -76,6 +77,9 @@ Take out slash in the first and second line.
         #insert button code here
 
     </html>
+
+
+
 
 Enjoy your new button-mashing website!
 
