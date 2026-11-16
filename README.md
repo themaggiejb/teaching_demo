@@ -35,48 +35,46 @@ however the base code is listed below:
 Now we will learn how to code a button to send an alert.
 Use this as a base. Take out slash in the first and second line.
 
-<!DOCTYPE html>
-<html>
-    <body>
+    <html>
+        <body>
         
         
-    </body>
-</html>
+        </body>
+    </html>
 
 Next, we will learn how to code a button to redirect
 you to another page. Use this as a base. 
 Take out slash in the first and second line.
 
-<!DOCTYPE html>
-<html>
-    <head>
-        <style>
-            body {
-                background-image: url("background.png");
-                background-repeat: no-repeat; 
-                background-position: center center; 
-                background-size: cover; 
-                background-attachment: fixed;
-                margin: 0;
-                padding: 0;
-                position: relative;
-                min-height: 100vh;
-            }
+    <html>
+        <head>
+            <style>
+                body {
+                    background-image: url("background.png");
+                    background-repeat: no-repeat; 
+                    background-position: center center; 
+                    background-size: cover; 
+                    background-attachment: fixed;
+                    margin: 0;
+                    padding: 0;
+                    position: relative;
+                    min-height: 100vh;
+                }
        
-            .button-class {
-                border: none;
-    			padding: 10px 20px;
-    			display: inline-block;
-    			margin: 4px 2px;
-    			cursor: pointer;
-    			border-radius: 4px;
-    		}
-	</style>
-</head>
+                .button-class {
+                    border: none;
+        			padding: 10px 20px;
+        			display: inline-block;
+        			margin: 4px 2px;
+        			cursor: pointer;
+        			border-radius: 4px;
+        		}
+            </style>
+        </head>
 
 #insert button code here
 
-</html>
+    </html>
 
 Enjoy your new button-mashing website!
 
