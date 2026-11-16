@@ -1,16 +1,16 @@
 # Teaching Demo
 
-!What We Will be Going Over!
+## What We Will be Going Over
     1. How to Start with HTML
     2. Coding Images
     3. Making Buttons!
 
-!How to Start with HTML!
+## How to Start with HTML
 MUST Start with 
     <!DOCTYPE html> , THEN
     <html> </html>
 
-!Coding Images!
+## Coding Images
 Make sure to check your image follows these guidelines:
     1. PNG format 
     2. Lowercase 
@@ -24,7 +24,7 @@ However, if in a class, the code will look like:
 
     url(“background_image.png”);
 
-!Making Buttons!
+## Making Buttons
 
 There are multiple ways to approach making a button,
 however the base code is listed below:
@@ -60,7 +60,7 @@ Take out slash in the first and second line.
                     position: relative;
                     min-height: 100vh;
                 }
-       
+           
                 .button-class {
                     border: none;
         			padding: 10px 20px;
@@ -72,7 +72,7 @@ Take out slash in the first and second line.
             </style>
         </head>
 
-#insert button code here
+        #insert button code here
 
     </html>
 
