@@ -7,7 +7,7 @@
 
 ##How to Start with HTML
 MUST Start with 
-#<!DOCTYPE html> , THEN
+/<!DOCTYPE html> , THEN
 <html> </html>
 
 ##Coding Images
@@ -38,7 +38,7 @@ Use this as a base. Take out slash in the first and second line.
 
 /<!DOCTYPE html>
 /<html>
-    <body>
+    /<body>
         
         
     </body>
