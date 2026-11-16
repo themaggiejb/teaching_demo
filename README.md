@@ -6,8 +6,9 @@
     3. Making Buttons!
 
 ## How to Start with HTML
-MUST Start with 
-    <!DOCTYPE html> , THEN
+#MUST Start with 
+    <!DOCTYPE html>
+#THEN,
     <html> </html>
 
 ## Coding Images
